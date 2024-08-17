@@ -5,5 +5,10 @@
 ##### Fifth header
 ###### Sixth and last header
 Added six different styled headers
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 Added image of Yaktocat
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
