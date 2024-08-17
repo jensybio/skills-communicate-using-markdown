@@ -10,5 +10,7 @@ Added six different styled headers
 
 Added image of Yaktocat
 
+```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
